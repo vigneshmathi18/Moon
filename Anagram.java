@@ -19,7 +19,7 @@ public class PracticeDemo {
             return true;
 
 
-
+//editing to creat a new branch for practice purpose
     }
     public static void main(String args[]){
         char str1[]="silent".toCharArray();
